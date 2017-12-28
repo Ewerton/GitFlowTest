@@ -10,8 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //Feature2.2
-            //Feature2
+            //Ft2
         }
     }
 }
