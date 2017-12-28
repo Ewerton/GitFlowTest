@@ -10,8 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //Develop
-            //Ft1
+            //Master
         }
     }
 }
